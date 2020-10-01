@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>portmanage</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>library/mysql-connector-java-8.0.20.jar</name>
+			<type>1</type>
+			<location>/Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Home/lib/mysql-connector-java-8.0.20.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
